@@ -5,4 +5,4 @@ Steps :-
 - You would be able to see all your pending invitations.
 - Open Developer's Option (Shortcut Ctrl + Shift + I).
 - Click on Console ie next to Elements.
-- Paste Code in Console and Hit Enter.
+- Paste Code from [linkedinreqwithdrawer.js](linkedinreqwithdrawer.js) in Console and Hit Enter.
